@@ -6,7 +6,7 @@
 
 <!-- omit in toc -->
 ## Contents
-
+asdf
 - [Resources](#resources)
 - [Client APIs](#client-apis)
 - [Tools Powered by DuckDB](#tools-powered-by-duckdb)
